@@ -18,3 +18,6 @@
 + Среда обучения модели: Google Colaboratory с использованием ресурсов GPU.
 
 ## *3. Демонстрация системы*
+
+<img width="630" height="413" alt="image" src="https://github.com/user-attachments/assets/29628661-5262-4ce4-b77f-9801bc98016d" />
+
